@@ -1,0 +1,5 @@
+.greet {
+  text-align: center;
+  font-size: 30rpx;
+  color: rgb(80, 80, 80);
+}

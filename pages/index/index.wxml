@@ -1,0 +1,5 @@
+<view class="greet">
+  Hey, <open-data type="userNickName" /> :)
+</view>
+
+<img-compressor />

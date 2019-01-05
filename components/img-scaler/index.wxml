@@ -1,0 +1,5 @@
+<canvas
+  canvas-id="{{canvasId}}"
+  style="width: {{width}}px; height: {{height}}px; top: 0; left: {{width * -2}}px;"
+  class="cvs"
+></canvas>

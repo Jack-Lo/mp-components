@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "img-scaler": "../../components/img-scaler/index"
+  }
+}
